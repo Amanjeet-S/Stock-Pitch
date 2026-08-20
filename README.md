@@ -12,7 +12,7 @@ Two reasons this repo exists. It forces me to finish a thesis instead of leaving
 
 | Company | Ticker | Direction | Published | Base case | Status | Write-up |
 |---------|--------|-----------|-----------|-----------|--------|----------|
-| Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 | €85–100 vs €60 | Open | [PDF](pitches/2026-07-sixt-se-long/Sixt_SE_Long_Amanjeet_Singh.pdf) |
+| Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 |  | Open | [PDF](https://github.com/Amanjeet-S/Stock_Pitch/issues/1#issue-5204983851) |
 
 **Sixt SE, long, high conviction.** A family-controlled German premium mobility operator earning record profits on roughly 8.6x 2026 consensus earnings, because the market still prices it as a residual-value-exposed cyclical and buckets it with loss-making Hertz and Avis. It isn't one. Around 98% of the European fleet sits under fixed-price manufacturer buyback agreements, which contracts away the biggest cost risk in car rental, and US growth is structural share capture from two distressed incumbents rather than cyclical beta. If the guided 10% EBT margin lands, a re-rating toward the low teens is worth €85–100 against €60 today, with a 5.4% dividend paid while waiting. Next test is Q2 results on 13 August 2026.
 
