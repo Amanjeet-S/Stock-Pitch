@@ -12,7 +12,7 @@ Two reasons this repo exists. It forces me to finish a thesis instead of leaving
 
 | Company | Ticker | Direction | Published | Base case | Status | Write-up |
 |---------|--------|-----------|-----------|-----------|--------|----------|
-| Nakilat (Qatar Gas Transport) | QGTS · Qatar Exchange | Long | 20 Aug 2026 | QAR 5.30 vs 4.30 | Open | [PDF](REPLACE_WITH_LINK) |
+| Nakilat (Qatar Gas Transport) | QGTS · Qatar Exchange | Long | 20 Aug 2026 | QAR 5.30 vs 4.30 | Open | [PDF](https://github.com/user-attachments/files/31299765/Nakilat.QGTS.Long.Amanjeet.Singh.pdf) |
 | Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 | €85–100 vs €60 | Open | [PDF](https://github.com/Amanjeet-S/Stock_Pitch/issues/1#issue-5204983851) |
 
 **Nakilat, long, moderate to high conviction.** The largest LNG carrier fleet in the world, earning fixed, availability-based charter income from QatarEnergy affiliates on contracts averaging eight years remaining. The market prices it as a static bond proxy at roughly 14x flat earnings. It reads better as a levered residual claim on an amortising, contractually matched debt stack: around QAR 18.1bn of net debt repaying against charters that outlive it, so enterprise value migrates to equity every year that passes. S&P raised the stand-alone credit profile two notches to bbb+ in February 2026 and sees leverage falling from 4.1x to 3.0–3.3x by 2027. The thesis needs no EBITDA growth at all, only the deleveraging the rating agency has already underwritten. QAR 5.30 against QAR 4.30, with a 3.3% dividend paid while waiting. Next test is Q3 results in late October 2026.
