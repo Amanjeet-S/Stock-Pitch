@@ -12,8 +12,11 @@ Two reasons this repo exists. It forces me to finish a thesis instead of leaving
 
 | Company | Ticker | Direction | Published | Base case | Status | Write-up |
 |---------|--------|-----------|-----------|-----------|--------|----------|
-| Nakilat (Qatar Gas Transport) | QGTS · Qatar Exchange | Long | 20 Aug 2026 | QAR 5.30 vs 4.30 | Open | [PDF](REPLACE_WITH_LINK) |
+| StepStone Group | STEP · NASDAQ | **Short** | 21 Aug 2026 | $34 vs $49.88 | Open | [PDF](https://github.com/user-attachments/files/31321497/StepStone.Short.Amanjeet.Singh.pdf) |
+| Nakilat (Qatar Gas Transport) | QGTS · Qatar Exchange | Long | 20 Aug 2026 | QAR 5.30 vs 4.30 | Open | [PDF](https://github.com/user-attachments/files/31299765/Nakilat.QGTS.Long.Amanjeet.Singh.pdf) |
 | Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 | €85–100 vs €60 | Open | [PDF](https://github.com/Amanjeet-S/Stock_Pitch/issues/1#issue-5204983851) |
+
+**StepStone Group, short, high conviction.** A private markets asset manager whose equity capitalises a fee stream levered to marks it sets itself. The fastest growing part of the business books day-one markups on secondary purchases and charges performance fees on paper gains, and those same marks price a formula-linked insider buy-in liability of roughly $2.27bn against $213m of corporate cash, which has pushed GAAP book value below zero. In the flagship wealth vehicle, net unrealised gains ran to roughly $1.87bn last year against realised gains of roughly $3m. With industry distributions below 15% of net asset value for four consecutive years, the cash that would ratify those marks is not arriving. Target $34 against $49.88, on multiple compression from about 20 times adjusted net income toward the mid-teens, plus dilution from the buy-in. Next test is Q2 results in November 2026.
 
 **Nakilat, long, moderate to high conviction.** The largest LNG carrier fleet in the world, earning fixed, availability-based charter income from QatarEnergy affiliates on contracts averaging eight years remaining. The market prices it as a static bond proxy at roughly 14x flat earnings. It reads better as a levered residual claim on an amortising, contractually matched debt stack: around QAR 18.1bn of net debt repaying against charters that outlive it, so enterprise value migrates to equity every year that passes. S&P raised the stand-alone credit profile two notches to bbb+ in February 2026 and sees leverage falling from 4.1x to 3.0–3.3x by 2027. The thesis needs no EBITDA growth at all, only the deleveraging the rating agency has already underwritten. QAR 5.30 against QAR 4.30, with a 3.3% dividend paid while waiting. Next test is Q3 results in late October 2026.
 
@@ -49,6 +52,7 @@ Sixt is the one exception. It was written before I started running positions and
 
 | Ticker | Position | Weight | Opened | Entry | Latest | Return | Benchmark | Status |
 |--------|----------|--------|--------|-------|--------|--------|-----------|--------|
+| STEP | Short (paper) | 2% at full size | — | — | — | — | — | Published, not yet opened |
 | QGTS | Long (paper) | 2.3%, 3.5% at full size | 23 Aug 2026 | QAR 4.161 | — | — | — | Open, part filled |
 | SIX3 | Long (call only) | — | 27 Jul 2026 | €60.00 | — | — | — | Open |
 
@@ -57,8 +61,10 @@ Sixt is the one exception. It was written before I started running positions and
 A few things worth being clear about:
 
 - From Nakilat onward, entry and size are recorded when the position is opened and marked periodically thereafter. Nothing is entered retrospectively.
+- StepStone is published but not yet opened. It will be entered at the price and on the date it actually fills, not at the price in the write-up.
+- On the short, return is the inverse of the price move, and the dividend payable away plus the borrow fee are charged against it. A short that is flat on price is losing money, and the table will show that.
 - Nakilat is a staged entry, as set out in the pitch: two thirds at the open and the balance held back for confirmation at Q3 results in late October that net debt is actually falling. 20,411 of 30,617 shares are filled. The remaining 10,206 are contingent on that print and will be recorded at the price they fill, not at today's.
-- Benchmark is the relevant local index for each name over the same holding period, since the pitches aren't tied to one market. MDAX for Sixt, the QE Index for Nakilat. Where a pitch is written as a pair, I'll show the spread as well as the outright.
+- Benchmark is the relevant local index for each name over the same holding period, since the pitches aren't tied to one market. MDAX for Sixt, the QE Index for Nakilat, the S&P 500 for StepStone. Where a pitch is written as a pair, I'll show the spread as well as the outright.
 - Closed entries stay in the table. Deleting the bad ones would make the whole thing pointless.
 - Latest prices and returns are filled in at each mark. Last marked: [date].
 
@@ -69,6 +75,7 @@ A few things worth being clear about:
 - Primary sources first: annual reports, interim results releases, investor relations disclosures, and the competitors' filings where the thesis depends on what they're doing.
 - Rating agency actions read in full where the thesis rests on credit, since the adjusted-debt and coverage definitions rarely survive a press summary intact.
 - Models built from scratch rather than pulled off a screener, so the assumptions are mine and I can defend them.
+- Where a net asset value is involved I check when the marks were struck, not just what they say. A discount measured against a stale NAV is not the same as a discount against a current one.
 - Market data pulled and dated at the time of writing. Every pitch says when the prices were taken, because they go stale fast.
 - Scenarios are written with the multiple and the margin assumption exposed, so anyone reading can disagree with a specific number instead of the conclusion.
 - Each pitch ends with what I haven't been able to confirm. Secondary sources get flagged as secondary.
@@ -81,7 +88,7 @@ I'm Amanjeet Singh. This is where I keep my equity work.
 
 I started writing pitches to find out whether I actually believed an idea or just liked the sound of it. Reading about a company gets you an opinion in an hour. Writing the whole thing out, the model and the counterargument and the exit and the number that would prove you wrong, is slower and a lot less flattering, and a fair share of the time it kills the idea before it reaches the page. I believe that is the useful part.
 
-What I look for is usually the same shape: a business the market has filed under the wrong heading because of something structural that a screen won't pick up. A contract that moves the risk somewhere else. A share class quirk. A competitor quietly in retreat. Sixt was all three at once, which is why it's the first one here. Nakilat is a different shape again, where the mispricing sits in the capital structure rather than the operating business, and the equity is the instrument that captures a deleveraging the credit market has already paid for.
+What I look for is usually the same shape: a business the market has filed under the wrong heading because of something structural that a screen won't pick up. A contract that moves the risk somewhere else. A share class quirk. A competitor quietly in retreat. Sixt was all three at once, which is why it's the first one here. Nakilat is a different shape again, where the mispricing sits in the capital structure rather than the operating business, and the equity is the instrument that captures a deleveraging the credit market has already paid for. StepStone is the third shape and the first short: a fee stream capitalised at a growth multiple when the marks generating it are struck by the manager and have not yet been tested against cash.
 
 No regional limit. The idea comes first and the listing follows, so Sixt happens to be German and the next one could be listed anywhere. What decides it is whether I can get to the primary filings and follow the accounting. The investment is what matters — not the location.
 
