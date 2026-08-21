@@ -12,9 +12,14 @@ Two reasons this repo exists. It forces me to finish a thesis instead of leaving
 
 | Company | Ticker | Direction | Published | Base case | Status | Write-up |
 |---------|--------|-----------|-----------|-----------|--------|----------|
-| Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 |  | Open | [PDF](https://github.com/Amanjeet-S/Stock_Pitch/issues/1#issue-5204983851) |
+| Nakilat (Qatar Gas Transport) | QGTS · Qatar Exchange | Long | 20 Aug 2026 | QAR 5.30 vs 4.30 | Open | [PDF](REPLACE_WITH_LINK) |
+| Sixt SE (pref) | SIX3 · Xetra | Long | 27 Jul 2026 | €85–100 vs €60 | Open | [PDF](https://github.com/Amanjeet-S/Stock_Pitch/issues/1#issue-5204983851) |
 
-**Sixt SE, long, high conviction.** A family-controlled German premium mobility operator earning record profits on roughly 8.6x 2026 consensus earnings, because the market still prices it as a residual-value-exposed cyclical and buckets it with loss-making Hertz and Avis. It isn't one. Around 98% of the European fleet sits under fixed-price manufacturer buyback agreements, which contracts away the biggest cost risk in car rental, and US growth is structural share capture from two distressed incumbents rather than cyclical beta. If the guided 10% EBT margin lands, a re-rating toward the low teens is worth €85–100 against €60 today, with a 5.4% dividend paid while waiting. Next test is Q2 results on 13 August 2026.
+**Nakilat, long, moderate to high conviction.** The largest LNG carrier fleet in the world, earning fixed, availability-based charter income from QatarEnergy affiliates on contracts averaging eight years remaining. The market prices it as a static bond proxy at roughly 14x flat earnings. It reads better as a levered residual claim on an amortising, contractually matched debt stack: around QAR 18.1bn of net debt repaying against charters that outlive it, so enterprise value migrates to equity every year that passes. S&P raised the stand-alone credit profile two notches to bbb+ in February 2026 and sees leverage falling from 4.1x to 3.0–3.3x by 2027. The thesis needs no EBITDA growth at all, only the deleveraging the rating agency has already underwritten. QAR 5.30 against QAR 4.30, with a 3.3% dividend paid while waiting. Next test is Q3 results in late October 2026.
+
+**Sixt SE, long, high conviction.** A family-controlled German premium mobility operator earning record profits on roughly 8.6x 2026 consensus earnings, because the market still prices it as a residual-value-exposed cyclical and buckets it with loss-making Hertz and Avis. It isn't one. Around 98% of the European fleet sits under fixed-price manufacturer buyback agreements, which contracts away the biggest cost risk in car rental, and US growth is structural share capture from two distressed incumbents rather than cyclical beta. If the guided 10% EBT margin lands, a re-rating toward the low teens is worth €85–100 against €60 today, with a 5.4% dividend paid while waiting.
+
+> **Update, 21 Aug 2026.** The catalyst named in the pitch has passed. Q2 came in ahead of consensus on 13 August, with H1 EBT up 39.4%, North America still growing and full-year guidance reaffirmed, so the margin pillar of the thesis held. The write-up itself is unchanged from 27 July.
 
 ---
 
@@ -38,26 +43,28 @@ Same structure every time, so they're quick to compare:
 
 ## Track record
 
-Paper positions, tracked honestly, including the ones that don't work.
+Paper positions, tracked honestly, including the ones that don't work. No real capital is at risk, so there are no transaction costs and no slippage, and that cuts both ways rather than in my favour.
 
-| Ticker | Direction | Entry date | Entry | Current / exit | Return | Benchmark | Result |
-|--------|-----------|------------|-------|----------------|--------|-----------|--------|
+Sixt is the one exception. It was written before I started running positions and I have not taken one in it since, so it sits here as a call marked from its publication price rather than a paper trade. It is labelled that way rather than quietly folded in with the rest.
+
+| Ticker | Direction | Type | Opened | Entry | Latest | Return | Benchmark | Status |
+|--------|-----------|------|--------|-------|--------|--------|-----------|--------|
+| QGTS | Long | Paper | 20 Aug 2026 | QAR 4.30 | — | — | — | Open |
+| SIX3 | Long | Call only | 27 Jul 2026 | €60.00 | — | — | — | Open |
 
 A few things worth being clear about:
 
-- These are paper trades. No real capital, no transaction costs, no slippage.
-- Prices may be updated [monthly / quarterly].
-- Benchmark is the relevant local index for each name over the same holding period, since the pitches aren't tied to one market. MDAX for Sixt. Where a pitch is written as a pair, I'll show the spread as well as the outright.
-- Closed positions stay in the table. Deleting the bad ones would make the whole thing pointless.
-- For Sixt, however, there was no position made.
-
-
+- From Nakilat onward, entry and size are recorded when the pitch is published and marked periodically thereafter. Nothing is entered retrospectively.
+- Benchmark is the relevant local index for each name over the same holding period, since the pitches aren't tied to one market. MDAX for Sixt, the QE Index for Nakilat. Where a pitch is written as a pair, I'll show the spread as well as the outright.
+- Closed entries stay in the table. Deleting the bad ones would make the whole thing pointless.
+- Latest prices and returns are filled in at each mark. Last marked: [date].
 
 ---
 
 ## How I work
 
 - Primary sources first: annual reports, interim results releases, investor relations disclosures, and the competitors' filings where the thesis depends on what they're doing.
+- Rating agency actions read in full where the thesis rests on credit, since the adjusted-debt and coverage definitions rarely survive a press summary intact.
 - Models built from scratch rather than pulled off a screener, so the assumptions are mine and I can defend them.
 - Market data pulled and dated at the time of writing. Every pitch says when the prices were taken, because they go stale fast.
 - Scenarios are written with the multiple and the margin assumption exposed, so anyone reading can disagree with a specific number instead of the conclusion.
@@ -71,9 +78,9 @@ I'm Amanjeet Singh. This is where I keep my equity work.
 
 I started writing pitches to find out whether I actually believed an idea or just liked the sound of it. Reading about a company gets you an opinion in an hour. Writing the whole thing out, the model and the counterargument and the exit and the number that would prove you wrong, is slower and a lot less flattering, and a fair share of the time it kills the idea before it reaches the page. I believe that is the useful part.
 
-What I look for is usually the same shape: a business the market has filed under the wrong heading because of something structural that a screen won't pick up. A contract that moves the risk somewhere else. A share class quirk. A competitor quietly in retreat. Sixt was all three at once, which is why it's the first one here.
+What I look for is usually the same shape: a business the market has filed under the wrong heading because of something structural that a screen won't pick up. A contract that moves the risk somewhere else. A share class quirk. A competitor quietly in retreat. Sixt was all three at once, which is why it's the first one here. Nakilat is a different shape again, where the mispricing sits in the capital structure rather than the operating business, and the equity is the instrument that captures a deleveraging the credit market has already paid for.
 
-No regional limit. The idea comes first and the listing follows, so Sixt happens to be German and the next one could be listed anywhere. What decides it is whether I can get to the primary filings and follow the accounting. The investment is what matters - not the location.
+No regional limit. The idea comes first and the listing follows, so Sixt happens to be German and the next one could be listed anywhere. What decides it is whether I can get to the primary filings and follow the accounting. The investment is what matters — not the location.
 
 I'd rather be specific and wrong than vague and defensible. Every write-up ends with what would break the thesis and which numbers I still haven't verified.
 
@@ -83,4 +90,4 @@ If you hire for research, or you've read one of these and think the call is wron
 
 ## Disclaimer
 
-None of this is investment advice. These are personal research exercises written for my own learning and to show how I think about companies. Views here are mine alone and not those of any employer, past or present. Market data was accurate at the date stated on each write-up and must be refreshed before anyone relies on it. I may or may not hold positions in the names covered; where I do, it's stated in the pitch. Do your own work before putting money anywhere.
+None of this is investment advice. These are personal research exercises written for my own learning and to show how I think about companies. Views here are mine alone and not those of any employer, past or present. Market data was accurate at the date stated on each write-up and must be refreshed before anyone relies on it. Positions recorded here are paper only and involve no real capital. Where I hold a real position in a name covered, it will be stated in the pitch. Do your own work before putting money anywhere.
